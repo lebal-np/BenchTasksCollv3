@@ -1,1 +1,1 @@
-Initial workspace files
+Initial workspace for customer-portal
