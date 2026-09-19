@@ -1,1 +1,1 @@
-Groundtruth workspace files
+Groundtruth data for territory-manager
